@@ -1,0 +1,6 @@
+encrypt:
+#  key: abcdefg123456
+  key-store:
+    location: file:///Users/uitae/Desktop/work/apiEncryptionKey.jks
+    password: test1234
+    alias: apiEncryptionKey
